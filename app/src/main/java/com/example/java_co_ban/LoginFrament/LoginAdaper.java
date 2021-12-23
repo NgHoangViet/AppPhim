@@ -8,6 +8,8 @@ import androidx.fragment.app.FragmentActivity;
 
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
+import com.example.java_co_ban.Sign_Up.SignUp_Fragment;
+
 public class LoginAdaper extends FragmentStateAdapter {
 
 
